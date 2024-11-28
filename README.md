@@ -7,11 +7,7 @@ Una Lai - tenko08
 ![window gif](https://github.com/tenko08/tenko08/blob/main/window.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb54ff&center=true&width=435&lines=Hey!+I'm+Una.;I'm+a+student+in+Toronto.;I'm+always+open+to+learn!)](https://git.io/typing-svg)
-
 ## My Tech Stack and Tools
-
-<p>
-  
 - 💻 &nbsp;
 ![Python Badge](https://img.shields.io/badge/Python-333333?logo=python&logoColor=&style=flat-square)
 ![C Badge](https://img.shields.io/badge/C-333333?logo=c&logoColor=&style=flat-square)

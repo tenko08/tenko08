@@ -46,7 +46,4 @@ Una Lai - tenko08
 	
 ![](https://komarev.com/ghpvc/?username=tenko08&style=flat-square)
 
-###### Some icons courtesy of [icons8](https://icons8.com/)
-
 ------
-Credit: [Null3000](https://github.com/null3000)

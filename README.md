@@ -4,7 +4,7 @@ Una Lai - tenko08
   
   <h2 align="center">
 
-![window gif](https://github4life.herokuapp.com/tenko08)
+![window gif](https://github.com/tenko08/tenko08/blob/main/window.gif)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb54ff&center=true&width=435&lines=Hey!+I'm+Una.;I'm+a+student+in+Toronto.;I'm+always+open+to+learn!)](https://git.io/typing-svg)
 

@@ -48,7 +48,7 @@ Una Lai || tenko08
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=tenko08&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenko08&langs_count=8&theme=algolia)
 	
-![](https://komarev.com/ghpvc/?username=null3000&style=flat-square)
+![](https://komarev.com/ghpvc/?username=tenko08&style=flat-square)
 
 ###### Some icons courtesy of [icons8](https://icons8.com/)
 

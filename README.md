@@ -30,20 +30,4 @@ Una Lai - tenko08
 ![Vim Badge](https://img.shields.io/badge/Vim-333333?logo=vim&logoColor=&style=flat-square)
 
 
-	
-## GitHub Stats
-
-
-|                                                                     My Stats                                                                     |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![My Github Stats](https://github-readme-stats.vercel.app/api?username=tenko08&show_icons=true&theme=algolia)              | 
-| ![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenko08&theme=algolia)                    | 
-    
-
-|                                                                                                      My Stars                                                                                                       |                                                           Top Languages                                                           |      
-|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=tenko08&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=false&theme=algolia)| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tenko08&langs_count=8&theme=algolia)
-	
-![](https://komarev.com/ghpvc/?username=tenko08&style=flat-square)
-
 ------

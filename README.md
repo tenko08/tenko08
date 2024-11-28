@@ -1,18 +1,15 @@
 <h1 align="center">
-Una Lai || tenko08
+Una Lai - tenko08
 
   
   <h2 align="center">
-    
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7991A&center=true&width=435&lines=Hey!+I'm+Una.;I'm+a+student+in+Toronto.;I'm+always+open+to+learn!)](https://git.io/typing-svg)
 
 
-## Contribution Snake 
 ![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
 
 ## My Tech Stack and Tools
-
-### Programming Languages
 
 <p>
   

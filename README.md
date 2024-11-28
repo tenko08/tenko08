@@ -4,10 +4,9 @@ Una Lai - tenko08
   
   <h2 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7991A&center=true&width=435&lines=Hey!+I'm+Una.;I'm+a+student+in+Toronto.;I'm+always+open+to+learn!)](https://git.io/typing-svg)
+![window gif](https://github4life.herokuapp.com/tenko08)
 
-
-![snake gif](https://github4life.herokuapp.com/tenko08)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=eb54ff&center=true&width=435&lines=Hey!+I'm+Una.;I'm+a+student+in+Toronto.;I'm+always+open+to+learn!)](https://git.io/typing-svg)
 
 ## My Tech Stack and Tools
 

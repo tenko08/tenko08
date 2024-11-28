@@ -7,7 +7,7 @@ Una Lai - tenko08
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7991A&center=true&width=435&lines=Hey!+I'm+Una.;I'm+a+student+in+Toronto.;I'm+always+open+to+learn!)](https://git.io/typing-svg)
 
 
-![snake gif](https://github.com/null3000/null3000/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github4life.herokuapp.com/tenko08)
 
 ## My Tech Stack and Tools
 
